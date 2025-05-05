@@ -1,4 +1,4 @@
-import { MediaSession } from '@darkpo/capacitor-media-session';
+import { MediaSession } from '@darkpo13/capacitor-media-session';
 
 const audioElement = document.querySelector('audio');
 let playbackStopped = true;

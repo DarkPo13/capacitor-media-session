@@ -20,7 +20,7 @@ Another problem with audio playback (using web standards, e.g. an `<audio>` elem
 Capacitor 7
 
 ```bash
-npm install @darkpo/capacitor-media-session
+npm install @darkpo13/capacitor-media-session
 npx cap sync
 ```
 
