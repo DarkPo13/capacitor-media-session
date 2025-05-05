@@ -1,5 +1,5 @@
 {
-  "name": "@darkpo/capacitor-media-session-example-app",
+  "name": "@darkpo13/capacitor-media-session-example-app",
   "version": "1.0.0",
   "description": "Media Session Example App",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@capacitor/core": "latest",
-    "@darkpo/capacitor-media-session": "file:.."
+    "@darkpo13/capacitor-media-session": "file:.."
   },
   "devDependencies": {
     "@capacitor/cli": "latest",
